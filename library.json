@@ -1,0 +1,16 @@
+{
+"name": "function_objects",
+"version": "1.0.0",
+"repository":
+{
+    "type": "git",
+    "url": "https://github.com/fopeczek/function_objects.git"
+},
+"description": "Universal function object library that is good enough as the replacement of the missing std::function in Arduino",
+"authors": [
+{
+	"name": "Adam Ryczkowski",
+	"email": "adam@statystyka.net"
+}],
+"license": "GPL-3.0"
+}
